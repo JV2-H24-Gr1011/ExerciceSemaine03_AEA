@@ -470,7 +470,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 598947fc16883ac4d9ffbdb35b507ef5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  cubePrefab: {fileID: 0}
+  cubePrefab: {fileID: 1513596015828096, guid: 118d794af50d44affb397ac6d1b6a89b, type: 3}
   zoneSize: {x: 7, y: 3, z: 7}
 --- !u!4 &540775734
 Transform:
